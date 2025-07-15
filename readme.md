@@ -111,3 +111,5 @@ This project demonstrates an end-to-end solution using Python for extracting tab
 ---
 
 **This solution provides a secure, scalable, and automated way to extract structured data from documents using Azure cloud services.**
+
+** Created with ❤️ by Rodrigo **
