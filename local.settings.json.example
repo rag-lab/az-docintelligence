@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "KEY_VAULT_URI": "<key KEY_VAULT_URI>",
+    "FUNCTIONS_WORKER_RUNTIME": "python"
+  }
+}
